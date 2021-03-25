@@ -39,7 +39,7 @@ pyrsistent==0.14.11
 python-utils==2.3.0
 PyVirtualDisplay==0.2.1
 pyxdg==0.25
-PyYAML==5.1
+PyYAML==5.4
 regex==2019.4.14
 requests==2.21.0
 requests-toolbelt==0.7.0
