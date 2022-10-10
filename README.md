@@ -1,3 +1,5 @@
+# this project is not maintained anymore
+
 # Instagram-Automation-Templates-for-instapy-
 Templates for instapy. I merely edited the wrappers. All credit goes to timgrossman
 
